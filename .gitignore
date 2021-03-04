@@ -71,6 +71,8 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+build.xml
+
 
 ##############################
 ## Visual Studio Code
@@ -84,7 +86,7 @@ nb-configuration.xml
 .DS_Store
 
 ##############################
- Visual Studio Code
+## Visual Studio Code
 #############################
 .vscode/
 *.code-workspace
